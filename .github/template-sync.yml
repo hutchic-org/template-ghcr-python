@@ -1,6 +1,6 @@
 ---
 additional:
-- temp
+- graphql-schemathesis
 
 files:
 - '!Dockerfile'
