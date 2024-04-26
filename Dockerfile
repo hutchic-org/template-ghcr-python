@@ -1,3 +1,3 @@
-FROM ubuntu:focal
+FROM python
 
 RUN touch touchfile
